@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+jaano-gmail.json
+service-account-key.json
+tokenai-credential.json
+sessions-cache.json
+leads-cache.json
+.env
